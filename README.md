@@ -2,5 +2,5 @@ Oops! It doesn't look like you should be here right now. Click the link to go ho
 
 
 <body style = "background-color:powderblue">
-  <a href="https://mrdish78-alt.github.io">Dish-ALT.</a>
+  <a href="https://mrdish78-alt.github.io">Dish-ALT</a>
 </body>
